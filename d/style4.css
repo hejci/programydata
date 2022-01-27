@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&display=swap');
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+body {
+    background-color: grey;
+}
+  main {
+      width: 1160px;
+      margin: 25px auto;
+      background-color: white;
+      padding: 20px;
+      border: 1px solid black;
+  }
+  h1, h2, h3 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+  }
+  h1 {
+    background-color: black;
+    color: rgb(230, 199, 199);
+    /* border-bottom: 1px solid black; */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  img {
+    width: 200px;
+  }
+
+  ul li {
+    list-style: circle;
+  }
+
+  .pojem {
+      font-size: 120%;
+      font-weight: bold;
+      text-transform: uppercase;
+      border-bottom: lpx dotted blue;
+  }
+
+  p{
+    font-family: 'Roboto Slab', serif;
+  }
